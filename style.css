@@ -1,0 +1,52 @@
+p {
+	font-family: Arial, sans-serif;  
+}
+
+table {
+	border: 3px solid black;
+	border-collapse: collapse;
+	font-family: Arial, sans-serif;  
+}
+
+td, th {
+	border: 3px solid;
+	font-family: Arial, sans-serif;  
+}
+
+th {
+	background-color: light green;
+} 
+	
+tr.alt td {
+	color: #000;
+	background-color: #C2FFC2;
+}
+
+body {
+	background-color: FFFFFF;
+	color: 000000;    
+	text-align: justify; 
+	font-family: Arial, sans-serif;  
+}
+
+a {
+	text-decoration: none;
+	font-family: Arial, sans-serif; 
+	font-size: 12pt;
+} 
+
+#navigation_menu {
+	text-align: center;
+	font-family: Arial, sans-serif;
+}
+
+#content {
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
+}
+
+#footer {
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
+}
