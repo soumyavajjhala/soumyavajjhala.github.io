@@ -1,0 +1,18 @@
+<supplies>
+  <supply ID="323" Item="Knee Brace" Supplier="All Florida Medical, Miami, Fl" Quantity="250">    
+  </supply>
+  <supply ID="346" Item="Carpal Tunnel Wrist Support" Supplier="River West Health, Atlanta, Ga" Quantity="700">   
+  </supply>
+  <supply ID="399" Item="Arm Sling" Supplier="Florida Valley Supply, Miami, Fl" Quantity="800">   
+  </supply>
+  <supply ID="425" Item="Splint" Supplier="Florida Valley Supply, Miami, Fl" Quantity="650">   
+  </supply>
+  <supply ID="444" Item="Elastic Bandage Wrap" Supplier="Caldwell Medical Supply, Orlando, Fl" Quantity="900">   
+  </supply>
+  <supply ID="449" Item="Slip-on Knee Compress Wrap" Supplier="Southeast Health Care, Athens, Ga" Quantity="500">   
+  </supply>
+  <supply ID="519" Item="Tennis Elbow Wrap" Supplier="All Florida Medical, Miami, Fl" Quantity="600">   
+  </supply>
+  <supply ID="525" Item="Ankle Support Brace" Supplier="River West Health, Atlanta, Ga" Quantity="300">   
+  </supply>
+</supplies>

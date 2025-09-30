@@ -1,0 +1,6 @@
+2248	Allen	Jaworski	Unit 4	1027 Heath Drive	"Miami, FL 33143"	(305) 555-0223
+2385	Helene	Ashker	Unit 8	6019 - 150th Ct NE	"Hialeah, FL 33010"	(305) 555-0243
+2257	Viktor	Semukhin	Unit2	1118 NE 43rd Place	"Coral Springs, FL 33075"	(305) 555-0235
+2260	Maria	Vasquez	Unit 5	101 Village Park West	"Hialeah, FL 33013"	(305) 555-0277
+2265	Keith	Webb	Unit 3	2 Casa Blanca Road	"Winter Park, FL 32790"	(305) 555-0292
+2342	Joe	Ziska	Unit 7	299 Lake Hills Blvd	"Coral Springs, FL 33077"	(305) 555-0256

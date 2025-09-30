@@ -1,0 +1,18 @@
+<supplies>
+  <supply ID="223" Item="Beakers" Supplier="All Florida Medical" Quantity="250">    
+  </supply>
+  <supply ID="311" Item="Petri dishes" Supplier="Riverside Health" Quantity="700">   
+  </supply>
+  <supply ID="399" Item="Syringes" Supplier="Florida Medical Supply" Quantity="800">   
+  </supply>
+  <supply ID="426" Item="Pipettes" Supplier="Florida Medical Supply" Quantity="650">   
+  </supply>
+  <supply ID="449" Item="Swabs" Supplier="Preston Medical Supply" Quantity="900">   
+  </supply>
+  <supply ID="501" Item="Test tubes" Supplier="Southeast Health Care" Quantity="500">   
+  </supply>
+  <supply ID="519" Item="Disposable gloves" Supplier="All Florida Medical" Quantity="600">   
+  </supply>
+  <supply ID="550" Item="Cell culture plates" Supplier="Riverside Health" Quantity="300">   
+  </supply>
+</supplies>

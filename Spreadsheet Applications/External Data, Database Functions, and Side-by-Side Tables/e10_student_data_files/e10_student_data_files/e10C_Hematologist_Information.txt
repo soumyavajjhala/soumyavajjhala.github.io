@@ -1,0 +1,8 @@
+1248	Mary	Jackson	Microbiology	1027 Hunts Point Road	"Miami, FL 33143"	(305) 555-0223
+1252	Ron	Kato	Pathology	653 Riverside Drive	"Miami, FL 33145"	(305) 555-0299
+1253	Mel	Katzenberger	Hematology	4079 Meadow Avenue	"Miami, FL 33174"	(305) 555-0146
+1257	Emily	Quamme	Pathology	379 Mont Mercer Way	"Coral Springs, FL 33075"	(305) 555-0135
+1260	Maria	Popa	Urinalysis	1222 Casa Del Sol	"Hialeah, FL 33013"	(305) 555-0177
+1265	Thomas	Satagaj	Microbiology	1041 168th Avenue SE	"Winter Park, FL 32790"	(305) 555-0192
+1342	Jean	Dupuis	Immunology	131 Echo Lake Road	"Coral Springs, FL 33077"	(305) 555-0156
+1385	Juan	Santos	Urinalysis	5710 Woodcrest	"Hialeah, FL 33010"	(305) 555-0243

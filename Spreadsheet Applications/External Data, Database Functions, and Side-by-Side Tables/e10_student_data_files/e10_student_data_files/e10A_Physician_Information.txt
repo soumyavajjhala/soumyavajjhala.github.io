@@ -1,0 +1,10 @@
+1248	Elena	Montoya	Geriatrics	854 Red Willow Drive	"Miami, Fl, 33143"	(305) 555-0723
+1252	Margaret	Fitzpatrick	General Surgery	601 Meadow Drive	"Miami, Fl, 33145"	(305) 555-0199
+1253	Jerry	Chung	Neurology	7094 Leland Avenue	"Miami, Fl, 33174"	(305) 555-0144
+1257	Emily	Rhoades	Radiology	67 Bolivar Drive	"Coral Springs, Fl, 33075"	(305) 555-0135
+1260	Maria	Flores	Radiology	1 Casa Del Sol	"Hialeah, Fl, 33013"	(305) 555-0177
+1265	Joan	Curtis	Obstetrics	1446 Yellow Rose Lane	"Winter Park, Fl, 32790"	(305) 555-0192
+1342	Yvonne	Dubois	Geriatrics	2117 West Smith Trail	"Coral Springs, Fl, 33077"	(305) 555-0155
+1385	Joseph	Ortega	Cardiology	1923 Village Park West	"Hialeah, Fl, 33010"	(305) 555-0245
+1248	Elena	Montoya	Geriatrics	854 Red Willow Drive	"Miami, Fl, 33143"	(305) 555-0723
+1253	Jerry	Chung	General Surgery	7094 Leland Avenue	"Miami, Fl, 33174"	(305) 555-0144
